@@ -1,0 +1,12 @@
+/* (c) Raymondoor, MIT License*/
+body{
+    margin:0 auto;
+    padding:1em;
+    max-width:1200px;
+}
+h2{margin-left:1em;}
+h3{margin-left:2em;}
+h4{margin-left:3em;}
+h5{margin-left:4em;}
+h6{margin-left:5em;}
+p{margin-left:4em;margin-right:4em;}
